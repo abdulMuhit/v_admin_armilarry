@@ -24,7 +24,7 @@
     "express": "^4.16.4",
     "js-cookie": "^2.2.0",
     "jwt-decode": "^2.2.0",
-    "nuxt": "^2.4.0",
+    "nuxt": "^2.16.3",
     "nuxt-dropzone": "^1.0.2",
     "nuxt-izitoast": "^0.1.2",
     "v-calendar": "^0.9.7",
@@ -55,7 +55,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "^24.1.0",
     "jest": "^24.1.0",
-    "vue-jest": "^3.0.3",
+    "vue-jest": "^4.0.1",
     "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0"
   }
